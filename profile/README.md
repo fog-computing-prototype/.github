@@ -7,7 +7,7 @@
   <img 
     alt="Logo"
     width="100%"
-    src="../images/logo.svg"
+    src="https://raw.githubusercontent.com/fog-computing-prototype/.github/main/images/logo.svg"
   >
 </p>
 
